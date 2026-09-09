@@ -41,7 +41,7 @@ comments at the top of the file for details.
 
 ## Credits
 
-Built on [HabboAirPlus](https://github.com/LilithRainbows/HabboAirPlus),
+Built on [HabboAirPlus](https://github.com/LilithRainbows/HabboAirPlus)
 by Lilith. Japanese terminology follows official habbo.jp usage wherever a
 historical reference was available.
 
