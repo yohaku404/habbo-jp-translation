@@ -26,7 +26,7 @@ catalog_shop.easter17farm.text_3.ja=<a href="event:habblet/open/credits">ここ�
 credit_exchange|||Habboバンク
 catalog_shop.credit_exchange.text_0.ja=ポイントと同じ価値のコインを販売しているよ！ほかの家具と同じようにお部屋に置くこともできるし、コインからポイントに換えることも可能だよ。
 club_shop|||HC家具
-catalog_shop.club_shop.text_0.ja=このおしゃれなピクセルたちをお部屋にくつろがせて、もっと上質な雰囲気にしよう。毎月もらえる無料のHC家具ともぴったり合うよ。
+catalog_shop.club_shop.text_0.ja=こちらのクラブショップで販売しているアイテムは、Habboクラブメンバーだけが購入ことができるよ。Habboクラブについてくわしくは、ホームページをチェックしてね！
 catalog_shop.club_shop.text_1.ja=Habboクラブ会員限定
 hc_membership|||Habboクラブ
 front_page|||メイン
@@ -66,7 +66,7 @@ catalog_shop.club_gifts.text_0.ja=受け取れるHCプレゼントを下でチ�
 marketplace_info|||マーケットプレイス
 catalog_shop.marketplace_info.text_0.ja=マーケットプレイスは、Habboで安全かつ簡単に家具を売買できる方法だよ。
 catalog_shop.marketplace_info.text_1.ja=マーケットプレイスの仕組みは？
-catalog_shop.marketplace_info.text_2.ja=アイテムを買うには：マーケットプレイスのオファーページでほしいものを探して、「購入」をクリックしてね。表示された価格で、その場ですぐに手に入るよ。\n\nアイテムを売るには：インベントリで許可マークが付いたアイテムなら何でも売れるよ。インベントリでアイテムを選んで「マーケットプレイスで売る」ボタンをクリックするだけ。ショップにあるアイテムも使えるよ。\n\nメモ：一度に最大250個まで出品できるよ。\n\n必要なもの：トレード許可が必要だよ。タレントトラックの最初のステップをクリアすると手に入るよ。
+catalog_shop.marketplace_info.text_2.ja=アイテムを購入には：マーケットプレイスのオファーページでほしいものを探して、「購入」をクリックしてね。表示された価格で、その場ですぐに手に入るよ。\n\nアイテムを売るには：インベントリで許可マークが付いたアイテムなら何でも売れるよ。インベントリでアイテムを選んで「マーケットプレイスで売る」ボタンをクリックするだけ。ショップにあるアイテムも使えるよ。\n\nメモ：一度に最大250個まで出品できるよ。\n\n必要なもの：トレード許可が必要だよ。タレントトラックの最初のステップをクリアすると手に入るよ。
 marketplace_offers|||オファー
 roombuild|||部屋づくり
 2020_bydesign|||デザイン別
@@ -87,10 +87,10 @@ ducket_folder|||ダケットショップ
 # 基本の家具・カテゴリ / FURNITURE CATEGORIES  (38 pages)
 # ==========================================================
 set_iced|||アイス
-catalog_shop.set_iced.text_0.ja=クールで居心地がいい。「ちょっとだけ休みたいな」というレアなハボのための家具。深く沈み込んで、午後をまるごと無駄にしちゃおう。
+catalog_shop.set_iced.text_0.ja=クールだけどソフト。落ちついたベージュのレザーを使ったアイス・コレクションです。
 dynamic_product_category_floor|||床
 set_lodge|||ロッジ
-catalog_shop.set_lodge.text_0.ja=素朴で個性的なライフスタイル。木のぬくもりとエコにこだわった家具たち、すべては自然のために。
+catalog_shop.set_lodge.text_0.ja=木の温もりと素朴な風合い。スイスの湖畔にたつロッジをイメージしたこのコレクションは、自然を愛するハボにピッタリ。
 catalog_shop.set_lodge.text_1.ja=ナチュラルなサンドイッチライフを楽しもう！
 ktchn15_bc|||キッチン用品
 set_anna|||アンナ
@@ -103,13 +103,13 @@ set_neon|||ネオン
 catalog_shop.set_neon.text_0.ja=いちばん楽しい家具コレクションがHabboホテルにやってきた。ネオンの光の色とりどりの世界と、ピクセルの美しさが融合。パーティーの準備はできてる？
 catalog_shop.set_neon.text_1.ja=アイテムをクリックすると\n詳細が見られます
 set_mode|||モード
-catalog_shop.set_mode.text_0.ja=スチールグレイの機能性と美しい曲線ライン。クールな都会の猫のように賢く、触れることができないくらいかっこいい。このデザインを選ぶのは、そんなハボ。新色ブラック登場！
+catalog_shop.set_mode.text_0.ja=スチールグレイの機能性と美しい曲線ライン。クールな都会の猫のように賢く、触れることができないくらいかっこいい。このデザインを選ぶのは、そんなハボ。
 set_teleports2|||テレポートボゥクス
-catalog_shop.set_teleports2.text_0.ja=瞬きする間にお部屋からお部屋へ移動しよう。テレポートは通常ペアで販売されているから、あとで誰かと交換するときはペアを間違えないように気をつけてね。ちなみにバンザイ・テレポートはランダムな効果を持つテレポートだから、1個単位で販売されているよ。
+catalog_shop.set_teleports2.text_0.ja=部屋から部屋へ瞬間移動！2つセットになっているので、片方をリンクさせたいお部屋に置いてね。あっという間に行けちゃうよ！
 space_landscape|||ランドスケープ
 catalog_shop.space_landscape.text_0.ja=購入する前に、バーチャルルームプレビューで好みのランドスケープデザインを試してみよう。
 set_posters|||ポスター・フラゥグ
-catalog_shop.set_posters.text_0.ja=壁にちょっとしたアクセントを。好み、スタイル、テイスト、シーン、なんでも揃ってるよ。お気に入りを飾ってみよう。
+catalog_shop.set_posters.text_0.ja=お部屋のカベがちょっとさみしい？ そんなあなたはカラフルなフラッグやアーティスティックなギャラリーアイテムをどうぞ！たくさん貼ってカベを埋めちゃお。★摩天楼・ポスター(カラー・モノクロ)登場!!
 set_pixelnew|||ベース
 catalog_shop.set_pixelnew.text_0.ja=このカラフルな家具シリーズには、お部屋をスタイリッシュにして、素敵な空間を作るために必要なものが全部揃っているよ。
 badge_display|||バッジ展示台
@@ -117,7 +117,7 @@ catalog_shop.badge_display.text_0.ja=バッジを集めるのに苦労したよ�
 dynamic_product_category_lighting|||照明器具
 catalog_shop.dynamic_product_category_lighting.text_0.ja=アンビエントな明かりは欠かせないよね。
 set_rugs|||ラグ
-catalog_shop.set_rugs.text_0.ja=どんなシーンにもぴったり。お客さんの前で恥をかかないようにね！
+catalog_shop.set_rugs.text_0.ja=居心地いいお部屋にしたいなら、こちらのラグがオススメ。色違いで敷くとカラフルなお部屋に変身しちゃうよ♪
 catalog_shop.set_rugs.text_1.ja=これ、私のお部屋にぴったり！
 set_usva|||ウスヴァ
 catalog_shop.set_usva.text_0.ja=幾何学的にデザインされた家具で、お部屋をもっと素敵にしよう。
@@ -136,12 +136,12 @@ catalog_shop.set_picnic.text_0.ja=静かな場所でピクニックの準備を�
 set_windows|||窓シリーズ
 catalog_shop.set_windows.text_0.ja=太陽の光を取り込もう！窓をつけてお部屋のジメジメをなくそう。眺めが持てないなんて、誰が言ったの？
 set_bath|||バスルーム
-catalog_shop.set_bath.text_0.ja=バスルームコレクションで楽しいひとときを。ちょっとした爽やかさは誰にとっても悪くないよね。思いがけない時に…
+catalog_shop.set_bath.text_0.ja=あなただけのくつろぎタイムや友達との楽しい時間。元気なバスルームコレクションは、どんなときも大活躍です。なんたってこちらのバブルバス、二人一緒に入れちゃうんです♪
 set_cubie|||キュービー
 catalog_shop.set_cubie.text_0.ja=まっすぐな線がいくつも組み合わさって生まれる、センス抜群の家具たち。誰もが持っておきたい一品！
 catalog_shop.set_cubie.text_1.ja=アイテムをクリックすると詳細が見られます。
 set_extras|||イロイロ
-catalog_shop.set_extras.text_0.ja=ほかの基本家具に加えて、これらがお部屋にあなたらしさをプラスしてくれるよ。気分次第でいつでも配置換えできるからね。
+catalog_shop.set_extras.text_0.ja=お部屋でもっと遊びたいハボはこちらのアイテムをお試しあれ。ここには単なるオキモノから、おもしろい仕掛けが隠されているモノ、とにかくイロイロあるよ！
 dynamic_product_category_chair|||イス
 catalog_shop.dynamic_product_category_chair.text_0.ja=ピクセルのお部屋に必要な快適さがここに。友達を呼んでコーヒーでもどう？
 dynamic_product_category_table|||テーブル
@@ -153,13 +153,13 @@ catalog_shop.set_blackhole.text_0.ja=お部屋にブラックホールを作れ�
 set_pool|||プール
 catalog_shop.set_pool.text_0.ja=プールの時間だよ！
 dynamic_product_category_vending_machine|||ディスペンサー
-dynamic_product_environment_nature|||ネイチャー
-catalog_shop.dynamic_product_environment_nature.text_0.ja=どんなお部屋にも空気をきれいにしてくれる植物が必要だよね！しかもちょっと変わったプレゼントにもなるし…
+dynamic_product_environment_nature|||プラント
+catalog_shop.dynamic_product_environment_nature.text_0.ja=どんな部屋にもグリーンは必要だよね。屋外の自然を取り入れてお部屋の空気をきれいにしてもらっちゃおう♪
 dynamic_product_category_bed|||ベッド
 catalog_shop.dynamic_product_category_bed.text_0.ja=そろそろ寝る時間？だったらこの家具でひと休みして、おやすみなさい。
 set_trophies|||トロフィー
-catalog_shop.set_trophies.text_0.ja=誰でもチャンピオンになれる。金・銀・銅のトロフィーを、贈りたい相手に贈ろう。矢印をクリックしてモデルを選び、好きな色を選んでね。
-catalog_shop.set_trophies.text_1.ja=グレーのスペースをクリックして、贈る言葉を書こう。注意！これは一生消えないよ。
+catalog_shop.set_trophies.text_0.ja=イベントにトロフィーはつきものだよね！このコレクションで君のアウォードにぴったりのトロフィーを見つけちゃおう♪<br><br>左の矢印をクリックするとトロフィーのモデルが選べるよ。カラーは金・銀・銅の3色。左下のボタンをクリックしてカラーを選ぼう！
+catalog_shop.set_trophies.text_1.ja=グレーのスペースをクリックして、贈る言葉を書こう。これは一生消えないよ。
 ktchn15|||キッチン用品
 catalog_shop.ktchn15.text_0.ja=Habboレストランのオーナー気取り？それともスタイリッシュにハボたちへ料理を振る舞うのが好き？この家具シリーズがあれば、本格的に料理を始められるよ！
 set_pura|||ピュア
@@ -258,7 +258,7 @@ catalog_shop.sound_fx.text_0.ja=お部屋でこのサウンドエフェクトを
 monkey_furni|||サルの家具
 catalog_shop.monkey_furni.text_0.ja=自分だけの猿のための限定家具をゲットしよう
 set_rollers|||Habboローラー
-catalog_shop.set_rollers.text_0.ja=想像力を動かそう！Habboローラーをたくさん買って、ゲームやパーティー、チャレンジなど何でも作っちゃおう…
+catalog_shop.set_rollers.text_0.ja=Habboローラーで無限のパワーを楽しもう！好きなようにつなげて使えば、ゲーム部屋で大活躍することマチガイなし☆
 catalog_shop.set_rollers.text_1.ja=楽しさに\n飛び乗ろう！
 hhe24gates|||一方通行ゲート
 catalog_shop.hhe24gates.text_0.ja=たくさんの人からリクエストをもらっていたアイテムが復活したよ。やったね！
@@ -455,7 +455,7 @@ temp_effect_duckets|||期間限定エフェクト（ダケット）
 temp_effects|||一時的エフェクト
 catalog_shop.temp_effects.text_0.ja=特定の目的のために、期間限定エフェクトが必要？もう探し回らなくて大丈夫！ここには、期間限定エフェクトの特別な厳選セレクションがあるよ！
 ny2015_permeffects|||エフェクト
-catalog_shop.ny2015_permeffects.text_0.ja=新登場！パーマネントエフェクトが仲間入り！同じエフェクトを何度も買うのにうんざりしてない？ずっと使い続けたい？それなら、このオファーはあなたのためのものだよ！
+catalog_shop.ny2015_permeffects.text_0.ja=新登場！パーマネントエフェクトが仲間入り！同じエフェクトを何度も購入のにうんざりしてない？ずっと使い続けたい？それなら、このオファーはあなたのためのものだよ！
 
 # ==========================================================
 # ビルダーズクラブ / BUILDERS CLUB  (62 pages)
