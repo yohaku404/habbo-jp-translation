@@ -25,7 +25,7 @@ catalog_shop.easter17farm.text_2.ja=<i><b><font color="#ba3733" size="16">中身
 catalog_shop.easter17farm.text_3.ja=<a href="event:habblet/open/credits">ここで購入して50%以上お得に</a>
 credit_exchange|||Habboバンク
 catalog_shop.credit_exchange.text_0.ja=ポイントと同じ価値のコインを販売しているよ！ほかの家具と同じようにお部屋に置くこともできるし、コインからポイントに換えることも可能だよ。
-club_shop|||HC家具
+club_shop|||クラブショップ
 catalog_shop.club_shop.text_0.ja=こちらのクラブショップで販売しているアイテムは、Habboクラブメンバーだけが購入ことができるよ。Habboクラブについてくわしくは、ホームページをチェックしてね！
 catalog_shop.club_shop.text_1.ja=Habboクラブ会員限定
 hc_membership|||Habboクラブ
@@ -255,8 +255,8 @@ catalog_shop.guild_custom_furni.text_1.ja=家具かグループを選択
 hhe24plastoline|||プラスチゥク
 sound_fx|||サウンドエフェクト
 catalog_shop.sound_fx.text_0.ja=お部屋でこのサウンドエフェクトを組み合わせて、自分だけのビートや曲を作ろう。友達にライブを聴かせたり、Habboでバンドを結成しちゃおう！
-monkey_furni|||サルの家具
-catalog_shop.monkey_furni.text_0.ja=自分だけの猿のための限定家具をゲットしよう
+monkey_furni|||サル家具
+catalog_shop.monkey_furni.text_0.ja=自分だけのサルのための限定家具をゲットしよう
 set_rollers|||Habboローラー
 catalog_shop.set_rollers.text_0.ja=Habboローラーで無限のパワーを楽しもう！好きなようにつなげて使えば、ゲーム部屋で大活躍することマチガイなし☆
 catalog_shop.set_rollers.text_1.ja=楽しさに\n飛び乗ろう！
@@ -518,7 +518,7 @@ bc_blocks_b|||ブロゥク
 bc_gothic|||ゴシゥク
 bc_alphabet|||アルファベットブロゥク
 bc_african|||サバンナ
-bc_habbo_stars|||ハッボスターズ
+bc_habbo_stars|||Habboスターズ
 bc_university|||Habboユニバーシティ
 catalog_shop.bc_university.text_0.ja=ピンクからフローラル、ヒップスターシックまで。すべてのハボには、自分だけのスタイルがあるよね。
 bc_icecreamparlour|||アイスクリームパーラー
