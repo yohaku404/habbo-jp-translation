@@ -538,8 +538,8 @@ catalog_shop.sept26crack2.text_0.ja=シードパックを開けて、農場の�
 sept26crack2prob|||シードパックの確率
 catalog_shop.sept26crack2prob.text_0.ja=シードパックの報酬について知っておきたいことは、すべてここでチェックできるよ！
 catalog_shop.sept26crack2prob.text_1.ja=それぞれのアイテムが出る確率はこちら：
-catalog_shop.sept26crack2prob.text_2.ja=シードパックの確率：\n散らばった種 - 95%\nガーデンカーディガン - 5%\n\n散らばった種に水をやると小さな苗になり、さらに水をやると：\n成長中のトウモロコシの茎 - 24%\n成長中のつる - 24%\n成長中のトマトの木 - 24%\n成長中のカボチャのつる - 24%\n怪しい植物 - 4%\n\nじょうろのエフェクトでもう一度水をやって、完全に育った植物にしよう！
-catalog_shop.sept26crack2prob.text_3.ja=<br /> <br /> 上のサブページで交換可能なアイテムをチェックしてね！
+catalog_shop.sept26crack2prob.text_2.ja=シードパックの確率：\n・散らばった種 - 95%\n・ガーデンカーディガン - 5%\n\n\n\n散らばった種に水をやると小さな苗になり、さらに水をやると：\n・成長中のトウモロコシの茎 (24%)\n・成長中のつる (24%)\n・成長中のトマトの木 (24%)\n・成長中のカボチャのつる (24%)\n・怪しい植物 (4%)\n\n\n\nじょうろのエフェクトでもう一度水をやって、完全に育った植物にしよう！
+catalog_shop.sept26crack2prob.text_3.ja=<br /> <br />上のサブページで交換可能なアイテムをチェックしてね！
 sept26furni|||新登場：サンセット・ファーム家具！
 catalog_shop.sept26furni.text_0.ja=ホテルにゴールデンアワーがやってきた。新しい家具コレクションで理想の癒し系農場を作ろう。
 sept26crack1|||ビギナーファーマーツール
