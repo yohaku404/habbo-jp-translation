@@ -1663,7 +1663,7 @@ extendedprofile.add.friends=友達を追加
 extendedprofile.add.friends.alert.body=このリンクは友達探しの部屋に移動し、今いる部屋から出ます！
 extendedprofile.add.friends.alert.title=部屋から出ますか？
 extendedprofile.addasafriend=友達リクエストを送る
-extendedprofile.block_player.desc=<b>このユーザーをブロックしてもよろしいですか？</b>\nブロックすると、このユーザーは：\n・あなたの部屋に入れなくなります\n・名前のわからないゴーストとして表示されます\n・あなたにプレゼントや友達リクエストを送ったり、トレードを始めたりできなくなります
+extendedprofile.block_player.desc=このユーザーをブロックしてもよろしいですか？\nブロックすると、このユーザーは：\n・あなたの部屋に入れなくなります\n・名前のわからないゴーストとして表示されます\n・あなたにプレゼントや友達リクエストを送ったり、トレードを始めたりできなくなります
 extendedprofile.block_player.title=ユーザーをブロック
 extendedprofile.block_player.tooltip=このユーザーをブロック
 extendedprofile.blocked=<b>ドラマ度:</b> 100%！<br><b>ユーザー:</b> ブロック済み。<br><b>平穏:</b> 回復。<br><br><u><a href="event:profile/unblock">ここをクリック</a></u>すると混沌が解き放たれます。
@@ -2832,7 +2832,7 @@ catalog.purchase.youractivitypoints.101=シーシェル: %activitypoints%
 catalog.purchase.youractivitypoints.103=スター: %activitypoints%
 catalog.purchase.youractivitypoints.104=クラウド: %activitypoints%
 catalog.purchase.youractivitypoints.105=ダイヤモンド: %activitypoints%
-catalog.purchase_confirmation.buy=購入
+catalog.purchase_confirmation.buy=買う
 catalog.purchase_confirmation.buy.with=支払いに使うもの:
 catalog.purchase_confirmation.cancel=キャンセル
 catalog.purchase_confirmation.gift=プレゼント
