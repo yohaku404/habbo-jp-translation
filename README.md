@@ -39,6 +39,15 @@ index is used to encode chat messages. Characters must only ever be
 middle (!!!), or previously encoded messages will decode incorrectly. See the
 comments at the top of the file for details.
 
+## Related Tools
+
+Catalog data (page IDs, page names, collection descriptions) and external
+text files used throughout this project are captured with
+[Habbo-Data-Extraction](https://github.com/maxph3/Habbo-Data-Extraction),
+a set of scripts developed by [@maxph3](https://github.com/maxph3) for
+dumping catalog structure via G-Earth and downloading game data files
+across Habbo hotel domains.
+
 ## Credits
 
 Built on [HabboAirPlus](https://github.com/LilithRainbows/HabboAirPlus)
