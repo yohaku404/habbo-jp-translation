@@ -202,7 +202,7 @@ invisiblefurni|||見えない家具
 catalog_shop.invisiblefurni.text_0.ja=このカテゴリーのアイテムは、「見えない家具・コントローラー」を部屋に置くと見えなくなるよ。建築に使ったり、隠し壁を作ったり、床に座ったりするのに使えるんだ！
 jun21new|||トロピカルタイ
 greek19new|||古代ギリシャ
-sept26furni|||NEW：サンセット農場の家具！
+sept26furni|||新登場：サンセット農場の家具！
 catalog_shop.sept26furni.text_0.ja=ゴールデンアワーがついにホテルにやってきた。新しい家具コレクションで、理想のくつろぎの農場を作ろう
 coral18furni|||珊瑚の王国
 sept25furni|||オリンポス山
@@ -546,8 +546,6 @@ catalog_shop.sept26crack2prob.text_0.ja=シードパックの報酬について�
 catalog_shop.sept26crack2prob.text_1.ja=それぞれのアイテムが出る確率はこちら：
 catalog_shop.sept26crack2prob.text_2.ja=シードパックの確率：\n・散らばった種 - 95%\n・ガーデンカーディガン - 5%\n\n\n\n散らばった種に水をやると小さな苗になり、さらに水をやると：\n・成長中のトウモロコシの茎 (24%)\n・成長中のつる (24%)\n・成長中のトマトの木 (24%)\n・成長中のカボチャのつる (24%)\n・怪しい植物 (4%)\n\n\n\nじょうろのエフェクトでもう一度水をやって、完全に育った植物にしよう！
 catalog_shop.sept26crack2prob.text_3.ja=<br /> <br />上のサブページで交換可能なアイテムをチェックしてね！
-sept26furni|||新登場：サンセット・ファーム家具！
-catalog_shop.sept26furni.text_0.ja=ホテルにゴールデンアワーがやってきた。新しい家具コレクションで理想の癒し系農場を作ろう。
 sept26crack1|||ビギナーファーマーツール
 sept26crack1prob|||ビギナーファーマーツールの確率
 aug26sc|||新登場：シーズンコインアイテム！
@@ -556,3 +554,9 @@ new_chests|||新登場：チェスト
 catalog_shop.new_chests.text_0.ja=真のコレクターに欠かせないアイテム。チェストを使って家具を整理したり、寄付ボックスを作ったり、家具を展示したり、Wiredボックスと組み合わせていろんなことに使おう。
 mar26sc|||新登場：DLCワールド・バッジパス！
 catalog_shop.mar26sc.text_0.ja=クエストをこなしてスターを手に入れ、DLCワールド・バッジパスと交換しよう！
+sept26r2|||レア：ファーマーの像
+catalog_shop.sept26r2.text_0.ja=投げ縄を手に、馬は前足を高く上げて。ファーマーの像が、どんな部屋にも西部開拓時代の空気を運んでくるよ。
+sept26bundle|||新登場：ランチライフパック
+sept26bundle1|||新登場：ランチライフパック
+sept26variable|||バリアブルFX
+sept26vbundle|||火を消せ！パック
